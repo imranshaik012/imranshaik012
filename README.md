@@ -12,6 +12,7 @@
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2025 Goals: Learn Cloud on AWS and Azure.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+- Currently diving into AI, aiming to transition into an AI Developer role by year-end
 
 ---
 
