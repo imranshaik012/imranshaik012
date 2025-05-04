@@ -49,12 +49,7 @@
 
 ### My Github Stats:
 
-<!-- <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=said7388&theme=algolia" alt="said7388" />
-</p> -->
+
 
 ---
 
@@ -74,9 +69,3 @@
 ### Top Repositories
 
 
-<!-- <a href="https://github.com/said7388/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=developer-portfolio&theme=algolia" />
-</a>
-<a href="https://github.com/said7388/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=Express-Postgres-blog&theme=algolia" />
-</a> -->
