@@ -6,11 +6,11 @@
 
 ![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps + AI).😎
+- 🌱 Trying to become an expert in Fullstack  and GENAI developer ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2025 Goals: Learn Cloud on AWS and Azure.
+- 🥅 2025 Goals: Learn GenAI.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 - Currently diving into AI, aiming to transition into an AI Developer role by year-end
 
